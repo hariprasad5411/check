@@ -1,1 +1,1 @@
-check the psuh commands in git hub
+checking merge cofilts while merging
